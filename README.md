@@ -1,1 +1,4 @@
 # Projeto_SoSul_01
+# Projeto de Distribuição de Doações
+
+A ideia do projeto é receber mensagens através do Telegram e usar bots para gerar arquivos ou mensagens para a IA distribuir os produtos de doações. Os armazéns mandam mensagens informando seu estoque, os abrigos mandam os dados do local, e também as suas necessidades. O Python irá encaminhar as mensagens para a IA do Google, que distribuirá os itens conforme a necessidade de cada abrigo, e também gerará uma lista em forma de mensagem que será enviada de volta aos armazéns para que a distribuição seja feita. Também daria para colocar no projeto a IA analisando as mensagens recebidas via bot do Telegram e ela gerando as listas de estoque ou de necessidades (ela interpretaria o que as pessoas escreveram). Eu não sei implementar a parte do Telegram; quem souber e puder ajudar, seria muito bem-vindo. Mais ideias poderão ser anexadas ao projeto para ajudar o povo do Sul ou de outras localidades.
